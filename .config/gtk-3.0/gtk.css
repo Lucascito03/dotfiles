@@ -1,0 +1,26 @@
+/* xfce4-panel */
+
+.xfce4-panel {
+	background-color: #131314;
+}
+/* xfce4-tasklist
+.xfce4-panel .tasklist button {
+}
+.xfce4-panel .tasklist button:hover {
+	background-color: #49494D;
+	color:  black;
+}
+.xfce4-panel .tasklist button:active {
+	background-color: #4E92EA;
+	color:  black;
+}
+*/
+/* xfce4-docklike-plugin */
+#docklike-plugin button {
+	background-color: #00000000;
+	color:  black;
+	border-radius: 2px;
+	margin: 2px;
+}
+#docklike-plugin .open_group { background-color: #252527; }
+#docklike-plugin .active_group { background-color: lightblue; }
