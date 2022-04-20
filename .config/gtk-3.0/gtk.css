@@ -1,0 +1,33 @@
+
+/* xfce4-panel */
+
+/*#docklike-plugin button {
+	background-color: #00000000;
+	color:  black;
+	border-width: 2px;
+	border-radius: 2px;
+	margin: 2px;
+	transition: width 2s;
+}
+#docklike-plugin button:hover {
+	border-width:  80px;
+}
+#docklike-plugin .open_group { background-color: #29292b; }
+#docklike-plugin .active_group { background-color: lightblue; } */
+
+.genmon_plugin {
+  background-color: #3d4455;
+  padding-right: 6px;
+  margin-top: 3px;
+  margin-bottom: 3px;
+  margin-left: 3px;
+  margin-right: 3px;
+  border-radius: 3px;
+}
+.genmon_image {
+  padding-left: 4px;
+  padding-right: 4px;
+}
+.wrapper-plug {
+  background-color: #3d4455;
+}
